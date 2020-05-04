@@ -1,0 +1,44 @@
+#!/bin/bash
+
+sudo apt install\
+ adb\
+ apt-transport-https\
+ blender\
+ curl\
+ default-jdk\
+ dosbox\
+ exfat-fuse\
+ ffmpeg\
+ filezilla\
+ freerdp2-x11\
+ gimp\
+ git\
+ gnome-shell-pomodoro\
+ gnome-tweaks\
+ gnupg-agent\
+ htop\
+ lmms\
+ make\
+ neofetch\
+ ntfs-3g\
+ openfortivpn\
+ openssl\
+ p7zip-full\
+ p7zip-rar\
+ p7zip\
+ pavucontrol\
+ pavucontrol\
+ playonlinux\
+ pwgen\
+ snapd\
+ software-properties-common\
+ thunderbird\
+ tilix\
+ transmission\
+ vim\
+ virtualbox-dkms\
+ virtualbox-ext-pack\
+ virtualbox-guest-additions-iso\
+ virtualbox\
+ vlc\
+ youtube-dl
