@@ -12,10 +12,10 @@ It basically consists of two bash scripts that must be executed after the [re]in
 2. Programs installed by [snap](https://snapcraft.io/): [wks.hakusho.snap.sh](wks.hakusho.snap.sh)
 3. [Overview of softwares, utilities and resources](#Overview-of-softwares,-utilities-and-resources)
 4. [Gnome extensions](#Gnome-extensions)
-5. [Sublime Text Plugins](#Sublime-Text-Plugins)
-6. [VS Code Extensions](#VS-Code-Extensions)
+5. [Sublime Text plugins](#Sublime-Text-plugins)
+6. [VS Code extensions](#VS-Code-extensions)
 7. [Docker's images](#Docker's-images)
-8. [ssh config recomendations](#ssh-config-recomendations)
+8. [SSH config recomendations](#SSH-config-recomendations)
 
 ## Overview of softwares, utilities and resources
 
@@ -81,7 +81,7 @@ It basically consists of two bash scripts that must be executed after the [re]in
 |✓| [WPS Office](https://www.wps.com/) | file [`.deb`](https://linux.wps.com/) |
 |✓| [Zoom](https://zoom.us) | file [`.deb`](https://zoom.us/download) |
 
-## Extensions of Gnome
+## Gnome extensions
 
 ✓ [Docker Containers Extension](https://extensions.gnome.org/extension/1864/hakan-baysal-onur-agtas/)\
 ✓ [Hide Activities Button](https://extensions.gnome.org/extension/1128/hide-activities-button/)\
@@ -91,7 +91,7 @@ It basically consists of two bash scripts that must be executed after the [re]in
 ✓ [Simple net speed](https://extensions.gnome.org/extension/1085/simple-net-speed/)\
 ✓ [Sound Input & Output Device Chooser](https://extensions.gnome.org/extension/906/sound-output-device-chooser/)
 
-## Extensions of Sublime Text
+## Sublime Text plugins
 
 ✓ [ApacheConf](https://packagecontrol.io/packages/ApacheConf)\
 ✓ [Emmet](https://packagecontrol.io/packages/Emmet)\
@@ -104,7 +104,7 @@ It basically consists of two bash scripts that must be executed after the [re]in
 ✓ [PlainTasks](https://packagecontrol.io/packages/PlainTasks)\
 ✓ [SortBy](https://packagecontrol.io/packages/SortBy)
 
-## Extensions of VS Code
+## VS Code extensions
 
 ✓ [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)\
 ✓ [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)\
@@ -136,6 +136,6 @@ References:
 
 1. [Youtube (pt_BR): O Guia DEFINITIVO de UBUNTU para Devs Iniciantes - by Fabio Akita](https://www.youtube.com/watch?v=epiyExCyb2s)
 2. [Medium (en_US): Upgrade your ssh key to ed25519 - by Risan Pradana](https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54)
-3. [Medium (en_US): Useful Tools for Developers- by Lucas Bittencourt](https://dev.to/lucasgdb/useful-tools-for-developers-2c00)
+3. [Medium (en_US): Useful Tools for Developers - by Lucas Bittencourt](https://dev.to/lucasgdb/useful-tools-for-developers-2c00)
 
 [neofetch-image]: https://matias2i.com/screenshot_from_2020-05-04%2013-32-17.png
