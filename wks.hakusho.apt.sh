@@ -6,6 +6,8 @@ sudo apt install\
  autoconf\
  autopoint\
  blender\
+ caca-utils\
+ catimg\
  curl\
  default-jdk\
  dosbox\
@@ -18,6 +20,7 @@ sudo apt install\
  gnome-shell-pomodoro\
  gnome-tweaks\
  gnupg-agent\
+ jp2a\
  htop\
  libtool\
  lmms\

@@ -138,4 +138,4 @@ References:
 2. [Medium (en_US): Upgrade your ssh key to ed25519 - by Risan Pradana](https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54)
 3. [Medium (en_US): Useful Tools for Developers - by Lucas Bittencourt](https://dev.to/lucasgdb/useful-tools-for-developers-2c00)
 
-[neofetch-image]: https://matias2i.com/screenshot_from_2020-05-04%2013-32-17.png
+[neofetch-image]: https://matias2i.com/neofetch.2020-05-05_17.32.16.png
