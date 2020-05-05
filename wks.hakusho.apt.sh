@@ -3,6 +3,8 @@
 sudo apt install\
  adb\
  apt-transport-https\
+ autoconf\
+ autopoint\
  blender\
  curl\
  default-jdk\
@@ -17,6 +19,7 @@ sudo apt install\
  gnome-tweaks\
  gnupg-agent\
  htop\
+ libtool\
  lmms\
  make\
  neofetch\
@@ -27,9 +30,9 @@ sudo apt install\
  p7zip-rar\
  p7zip\
  pavucontrol\
- pavucontrol\
  playonlinux\
  pwgen\
+ scribus\
  snapd\
  software-properties-common\
  thunderbird\

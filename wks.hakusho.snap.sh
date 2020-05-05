@@ -4,6 +4,7 @@ sudo snap install\
  insomnia\
  mockoon\
  musescore\
- slack\
+ postman\
  spotify\
- termius-app
+ termius-app\
+ slack --classic
