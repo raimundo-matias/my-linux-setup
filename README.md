@@ -2,19 +2,19 @@
 
 ![Neofeatch Info][neofetch-image]
 
-## What is this document?
+## What is this project?
 
-This document provides an overview and scripts for automated installation of the resources (programs, utilities, etc.) that I normally use on my laptop with Linux operating system, currently: [Pop OS 20.04 LTS](https://pop.system76.com/).
+This project provides an overview and scripts for automated installation of the resources (programs, utilities, etc.) that I normally use on my laptop with Linux operating system, currently: [Pop OS 20.04 LTS](https://pop.system76.com/).
 
 It basically consists of two bash scripts that must be executed after the [re]installation of the operating system and a check that all the resources listed are installed.
 
-1. Base softwares, utilities and resources: [wks.hakusho.apt.sh](wks.hakusho.apt.sh)
-2. Programs installed by [snap](https://snapcraft.io/): [wks.hakusho.snap.sh](wks.hakusho.snap.sh)
+1. Base softwares, utilities and resources: [apt.sh](scripts/apt.sh)
+2. Programs installed by [snap](https://snapcraft.io/): [snap.sh](scripts/snap.sh)
 3. [Overview of softwares, utilities and resources](#Overview-of-softwares,-utilities-and-resources)
 4. [Gnome extensions](#Gnome-extensions)
 5. [Sublime Text plugins](#Sublime-Text-plugins)
 6. [VS Code extensions](#VS-Code-extensions)
-7. [Containers images](#Containers-images)
+7. [Containers images](#Containers-images) by [containers-images.sh](scripts/containers-images.sh)
 8. [SSH config recomendations](#SSH-config-recomendations)
 
 ## Overview of softwares, utilities and resources
