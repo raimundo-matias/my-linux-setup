@@ -14,7 +14,7 @@ It basically consists of two bash scripts that must be executed after the [re]in
 4. [Gnome extensions](#Gnome-extensions)
 5. [Sublime Text plugins](#Sublime-Text-plugins)
 6. [VS Code extensions](#VS-Code-extensions)
-7. [Docker's images](#Docker's-images)
+7. [Containers images](#Containers-images)
 8. [SSH config recomendations](#SSH-config-recomendations)
 
 ## Overview of softwares, utilities and resources
@@ -117,7 +117,7 @@ It basically consists of two bash scripts that must be executed after the [re]in
 ✓ [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)\
 ✓ [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 
-## Docker's images
+## Containers images
 
 ✗ [maildev](https://danfarrelly.nyc/MailDev/)\
 ✗ [mariadb](https://hub.docker.com/_/mariadb)\
